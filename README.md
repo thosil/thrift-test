@@ -1,6 +1,6 @@
 # Thrift test
 
-Simple client server test using [thirft](https://thrift.apache.org/)
+Simple client server test using [thrift](https://thrift.apache.org/)
 
 # Install it
 
@@ -23,5 +23,5 @@ From another one
 
 # Hack it
 
-Models and services are defined in `schemas/example.thrift` (obviously in thrift format).  
+Models and services are defined in [schemas/example.thrift] (obviously in thrift format).  
 Running `make` will build the `gen-nodejs/*` files that will be used by both client and server
