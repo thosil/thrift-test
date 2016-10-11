@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+logs
+node_modules
+*.log
+npm-debug.log*
+.idea
+Session.vim
+*~
+*.py[cod]
+*$py.class
+*.so
+gen-nodejs
